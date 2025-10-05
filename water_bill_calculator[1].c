@@ -24,7 +24,7 @@ int main(){
      {
      bill=units*30;
      }
-     //display total bill INVESTORS KES
+     //display total bill KES
      printf("\nTotal water bill:KES %.2f ",bill);
      return 0;
 }
