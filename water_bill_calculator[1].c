@@ -2,7 +2,7 @@
 /*
 Name:Alex Mwangi Mwihia 
 Reg No:CT100/G/26203/25
-Description:simple program to determine exam eligibility
+Description:simple program to compute total water bill
 */
 #include <stdio.h>
 //main
